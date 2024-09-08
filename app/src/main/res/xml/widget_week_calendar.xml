@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/week_calendar_description"
+    android:minWidth="120dp"
+    android:minHeight="60dp"
+    android:initialLayout="@layout/widget_loading"
+    android:resizeMode="horizontal|vertical"
+    android:targetCellWidth="2"
+    android:targetCellHeight="1"
+    android:previewImage="@drawable/widget_week_calendar_preview"
+    android:widgetCategory="home_screen" />

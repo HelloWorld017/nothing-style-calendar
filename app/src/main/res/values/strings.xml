@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nothing Style Calendar</string>
+    <string name="full_calendar_description">Full Calendar</string>
+    <string name="week_calendar_description">Week Calendar</string>
+</resources>
